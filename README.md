@@ -2,7 +2,7 @@
 依赖bootstrap的Modal控件，封装了一个包含confirm和alert两种类型的Modal控件，使用简单操作方便。
 
 
-###使用说明
+### 使用说明
 
 在页面声明控件占位代码
 

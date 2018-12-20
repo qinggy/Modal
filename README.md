@@ -1,0 +1,2 @@
+# Modal
+依赖bootstrap的Modal控件，封装了一个包含confirm和alert两种类型的Modal控件

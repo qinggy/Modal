@@ -7,7 +7,7 @@
 在页面声明控件占位代码
 
 ```html
-<div id="qgy-alert" class="modal" data-width="500" style="display: none; width: 500px; padding-right: 17px; position: fixed; top: 10%; left: 38%; height: 100%;">
+<div id="qgy-modal" class="modal" data-width="500" style="display: none; width: 500px; padding-right: 17px; position: fixed; top: 10%; left: 38%; height: 100%;">
   <div>
     <div class="modal-content">
       <div class="modal-header">

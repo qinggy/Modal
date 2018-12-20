@@ -29,8 +29,8 @@
 然后在我们的js代码中调用
 
 ```js
-confirm代码
 
+confirm代码
 Modal.confirm({ title: '我是标题', msg: '我是提示信息' }).on(function (e) {
   // TODO Something 
   // yes 
